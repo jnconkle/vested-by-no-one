@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my first pass at hosting a page.  You can see my other projects across the web:
+I'm John.  Currently I have an interest in technical events, especially developer summits and student hackathons.  
 
-1) [Sponsorship Hacks Podcast](http://hackathon.posthaven.com)
-2) [Stacked Events](http://stacked.events)
-3) [Roundup Posts](http://wpcurve.com/definitive-guide-writing-roundup-post/)
-4) Book - To be announced
+Check out my projects across the web:
 
-Thanks to Andrews, Ferriss, Sethi, Holiday, Swift, Fontenot, Gottfried, Norris, Pearson,  Rinearson, and Mom + Dad for inspiration.
+1. [Sponsorship Hacks Podcast](http://hackathon.posthaven.com)
+2. [Stacked Events](http://stacked.events)
+3. [Roundup Posts](http://wpcurve.com/definitive-guide-writing-roundup-post/)
+4. Book - To be announced - follow me on Twitter to stay informed
 
-Thanks to Navdeep for helping me get up and running with Ruby, Git, and Jekyll.
+--
+
+[The Breakout List](http://www.breakoutlist.com/) and [A Tech Primer](http://www.atechprimer.com/) were both inspirations to get this page up and running.
